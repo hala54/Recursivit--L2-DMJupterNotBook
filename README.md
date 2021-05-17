@@ -1,11 +1,11 @@
 # Recursivit--L2-DMJupterNotBook
 
 ---
-layout: tutorial
+layout: DM
 schemadotorg:
  "@context": http://schema.org/
  "@type": CreativeWork
- about: "This is a training material about schema.org"
+ about: "DM sur les fonctions récusives en L2 Info "
  audience:
    - "@type": Audience
      name: L2Info

@@ -8,15 +8,15 @@ schemadotorg:
  about: "This is a training material about schema.org"
  audience:
    - "@type": Audience
-     name: WebMaster
- genre: "Tutorial"
- name: "Adding schema.org to your website"
- author: ["Fred Dibnah", "Niall Beard"]
+     name: L2Info
+ genre: "DM"
+ name: "Fonctions récusive en python"
+ author: ["Hala Skaf-Molli"]
  contributor:
    - "@type": Person
-     name: "Frank Spencer"
- description: "In order to establish higher search results for online resources"
- keywords: ["schemaorg", "TeSS"]
+     name: "Hala Skaf-Molli"
+ description: "Correction de DM sur la récusivité et de courbes de performances"
+ keywords: ["récussive", "python"]
  license: CC-BY 4.0
  version: 1.0
 ---

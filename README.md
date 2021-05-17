@@ -1,22 +1,22 @@
 # Recursivit--L2-DMJupterNotBook
 
 ---
-layout: Homework
+layout: tutorial
 schemadotorg:
  "@context": http://schema.org/
- "@type": Course
- about: "C'est une correction de TD2 sur la récusivité  de L2 informatique"
+ "@type": CreativeWork
+ about: "This is a training material about schema.org"
  audience:
    - "@type": Audience
-     name: L2 Informatique
- genre: "Homework"
- educationalLeve: "L2"
- author: ["Hala Skaf-Molli"]
+     name: WebMaster
+ genre: "Tutorial"
+ name: "Adding schema.org to your website"
+ author: ["Fred Dibnah", "Niall Beard"]
  contributor:
    - "@type": Person
-     name: "Hala Skaf-Molli"
+     name: "Frank Spencer"
  description: "In order to establish higher search results for online resources"
- keywords: ["réucrsivité", "L2"]
+ keywords: ["schemaorg", "TeSS"]
  license: CC-BY 4.0
  version: 1.0
 ---
